@@ -7,6 +7,7 @@
   },
   "scripts": {
     "test": "tap test/*.test.js",
+    "dev": "node --inspect-brk lib",
     "start": "node lib"
   },
   "keywords": [
